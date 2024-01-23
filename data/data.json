@@ -1,196 +1,198 @@
-{
-  "TODAYS_DEAL": [
-    {
-      "link": "https://ohou.se/productions/677286/selling",
-      "img": "https://image.ohou.se/i/bucketplace-v2-development/uploads/productions/166131669433751075.jpeg?gif=1&w=360&h=360&c=c&webp=1",
-      "alt": "NEW 미닉스 미니 건조기",
-      "brand": "미닉스",
-      "name": "[단독할인!+파격 사은품] 업그레이드! NEW 미닉스 미니 건조기 3kg",
-      "rate": "25",
-      "price": "349,000",
-      "avg": "4.8",
-      "review": "9,344",
-      "tag": "무료배송 특가"
-    },
-    {
-      "link": "https://ohou.se/productions/677286/selling",
-      "img": "https://image.ohou.se/i/bucketplace-v2-development/uploads/deals/167963702243909365.jpg?w=360&h=360&c=c&q=50",
-      "alt": "포더홈 미니멀 감성가구",
-      "brand": "포더홈",
-      "name": "[오늘의딜][10%쿠폰] 5/21까지 미니멀 감성가구 옷장/수납장/테이블 BIG SALE",
-      "rate": "58",
-      "price": "77,500 외",
-      "avg": "4.6",
-      "review": "15,499",
-      "tag": "특가"
-    },
-    {
-      "link": "https://ohou.se/productions/677286/selling",
-      "img": "https://image.ohou.se/i/bucketplace-v2-development/uploads/deals/167733638232383756.jpg?w=360&h=360&c=c&q=50",
-      "alt": "쓰임 인기 테이블웨어 파스타볼",
-      "brand": "쓰임",
-      "name": "[리퍼/5/20원데이] 쓰임 인기 테이블웨어 파스타볼 2,900원",
-      "rate": "67",
-      "price": "2,900 외",
-      "avg": "4.8",
-      "review": "3,945",
-      "tag": "특가"
-    },
-    {
-      "link": "#",
-      "img": "https://image.ohou.se/i/bucketplace-v2-development/uploads/deals/167733638232383756.jpg?w=360&h=360&c=c&q=50",
-      "alt": "쓰임 인기 테이블웨어 파스타볼",
-      "brand": "쓰임",
-      "name": "[리퍼/5/20원데이] 쓰임 인기 테이블웨어 파스타볼 2,900원",
-      "rate": "67",
-      "price": "2,900 외",
-      "avg": "4.8",
-      "review": "3,945",
-      "tag": "특가"
-    },
-    {
-      "link": "https://ohou.se/productions/677286/selling",
-      "img": "https://image.ohou.se/i/bucketplace-v2-development/uploads/productions/166131669433751075.jpeg?gif=1&w=360&h=360&c=c&webp=1",
-      "alt": "NEW 미닉스 미니 건조기",
-      "brand": "미닉스",
-      "name": "[단독할인!+파격 사은품] 업그레이드! NEW 미닉스 미니 건조기 3kg",
-      "rate": "25",
-      "price": "349,000",
-      "avg": "4.8",
-      "review": "9,344",
-      "tag": "무료배송 특가"
-    },
-    {
-      "link": "https://ohou.se/productions/677286/selling",
-      "img": "https://image.ohou.se/i/bucketplace-v2-development/uploads/deals/167963702243909365.jpg?w=360&h=360&c=c&q=50",
-      "alt": "포더홈 미니멀 감성가구",
-      "brand": "포더홈",
-      "name": "[오늘의딜][10%쿠폰] 5/21까지 미니멀 감성가구 옷장/수납장/테이블 BIG SALE",
-      "rate": "58",
-      "price": "77,500 외",
-      "avg": "4.6",
-      "review": "15,499",
-      "tag": "특가"
-    },
-    {
-      "link": "https://ohou.se/productions/677286/selling",
-      "img": "https://image.ohou.se/i/bucketplace-v2-development/uploads/deals/167733638232383756.jpg?w=360&h=360&c=c&q=50",
-      "alt": "쓰임 인기 테이블웨어 파스타볼",
-      "brand": "쓰임",
-      "name": "[리퍼/5/20원데이] 쓰임 인기 테이블웨어 파스타볼 2,900원",
-      "rate": "67",
-      "price": "2,900 외",
-      "avg": "4.8",
-      "review": "3,945",
-      "tag": "특가"
-    },
-    {
-      "link": "#",
-      "img": "https://image.ohou.se/i/bucketplace-v2-development/uploads/deals/167733638232383756.jpg?w=360&h=360&c=c&q=50",
-      "alt": "쓰임 인기 테이블웨어 파스타볼",
-      "brand": "쓰임",
-      "name": "[리퍼/5/20원데이] 쓰임 인기 테이블웨어 파스타볼 2,900원",
-      "rate": "67",
-      "price": "2,900 외",
-      "avg": "4.8",
-      "review": "3,945",
-      "tag": "특가"
-    },
-    {
-      "link": "https://ohou.se/productions/677286/selling",
-      "img": "https://image.ohou.se/i/bucketplace-v2-development/uploads/productions/166131669433751075.jpeg?gif=1&w=360&h=360&c=c&webp=1",
-      "alt": "NEW 미닉스 미니 건조기",
-      "brand": "미닉스",
-      "name": "[단독할인!+파격 사은품] 업그레이드! NEW 미닉스 미니 건조기 3kg",
-      "rate": "25",
-      "price": "349,000",
-      "avg": "4.8",
-      "review": "9,344",
-      "tag": "무료배송 특가"
-    },
-    {
-      "link": "https://ohou.se/productions/677286/selling",
-      "img": "https://image.ohou.se/i/bucketplace-v2-development/uploads/deals/167963702243909365.jpg?w=360&h=360&c=c&q=50",
-      "alt": "포더홈 미니멀 감성가구",
-      "brand": "포더홈",
-      "name": "[오늘의딜][10%쿠폰] 5/21까지 미니멀 감성가구 옷장/수납장/테이블 BIG SALE",
-      "rate": "58",
-      "price": "77,500 외",
-      "avg": "4.6",
-      "review": "15,499",
-      "tag": "특가"
-    },
-    {
-      "link": "https://ohou.se/productions/677286/selling",
-      "img": "https://image.ohou.se/i/bucketplace-v2-development/uploads/deals/167733638232383756.jpg?w=360&h=360&c=c&q=50",
-      "alt": "쓰임 인기 테이블웨어 파스타볼",
-      "brand": "쓰임",
-      "name": "[리퍼/5/20원데이] 쓰임 인기 테이블웨어 파스타볼 2,900원",
-      "rate": "67",
-      "price": "2,900 외",
-      "avg": "4.8",
-      "review": "3,945",
-      "tag": "특가"
-    }
-  ],
-  "WEEKLY_HOME_BEST": [
-    {
-      "link": "#",
-      "img": "https://image.ohou.se/i/bucketplace-v2-development/uploads/projects/cover_images/168295270394523906.jpg?w=360&h=180&c=c",
-      "alt": "",
-      "title": "수납공간 확실하게!",
-      "text": "동선을 고려한 30평대 신축 리모델링"
-    },
-    {
-      "link": "#",
-      "img": "https://image.ohou.se/i/bucketplace-v2-development/uploads/projects/cover_images/168295270394523906.jpg?w=360&h=180&c=c",
-      "alt": "",
-      "title": "수납공간 확실하게!",
-      "text": "동선을 고려한 30평대 신축 리모델링"
-    },
-    {
-      "link": "#",
-      "img": "https://image.ohou.se/i/bucketplace-v2-development/uploads/projects/cover_images/168295270394523906.jpg?w=360&h=180&c=c",
-      "alt": "",
-      "title": "수납공간 확실하게!",
-      "text": "동선을 고려한 30평대 신축 리모델링"
-    },
-    {
-      "link": "#",
-      "img": "https://image.ohou.se/i/bucketplace-v2-development/uploads/projects/cover_images/168295270394523906.jpg?w=360&h=180&c=c",
-      "alt": "",
-      "title": "수납공간 확실하게!",
-      "text": "동선을 고려한 30평대 신축 리모델링"
-    }
-  ],
-  "EP_ORIGINAL": [
-    {
-      "link": "#",
-      "img": "https://image.ohou.se/i/bucketplace-v2-development/uploads/cards/advices/168541696882124350.png?w=360&h=180&c=c",
-      "alt": "",
-      "title": " 70만원으로 끝냅니다😮 ",
-      "text": "미니멀 드레스룸 수납의 정석"
-    },
-    {
-      "link": "#",
-      "img": "https://image.ohou.se/i/bucketplace-v2-development/uploads/cards/advices/168541696882124350.png?w=360&h=180&c=c",
-      "alt": "",
-      "title": " 70만원으로 끝냅니다😮 ",
-      "text": "미니멀 드레스룸 수납의 정석"
-    },
-    {
-      "link": "#",
-      "img": "https://image.ohou.se/i/bucketplace-v2-development/uploads/cards/advices/168541696882124350.png?w=360&h=180&c=c",
-      "alt": "",
-      "title": " 70만원으로 끝냅니다😮 ",
-      "text": "미니멀 드레스룸 수납의 정석"
-    },
-    {
-      "link": "#",
-      "img": "https://image.ohou.se/i/bucketplace-v2-development/uploads/cards/advices/168541696882124350.png?w=360&h=180&c=c",
-      "alt": "",
-      "title": " 70만원으로 끝냅니다😮 ",
-      "text": "미니멀 드레스룸 수납의 정석"
-    }
-  ]
-}
+[
+  {
+    "TODAYS_DEAL": [
+      {
+        "link": "https://ohou.se/productions/677286/selling",
+        "img": "https://image.ohou.se/i/bucketplace-v2-development/uploads/productions/166131669433751075.jpeg?gif=1&w=360&h=360&c=c&webp=1",
+        "alt": "NEW 미닉스 미니 건조기",
+        "brand": "미닉스",
+        "name": "[단독할인!+파격 사은품] 업그레이드! NEW 미닉스 미니 건조기 3kg",
+        "rate": "25",
+        "price": "349,000",
+        "avg": "4.8",
+        "review": "9,344",
+        "tag": "무료배송 특가"
+      },
+      {
+        "link": "https://ohou.se/productions/677286/selling",
+        "img": "https://image.ohou.se/i/bucketplace-v2-development/uploads/deals/167963702243909365.jpg?w=360&h=360&c=c&q=50",
+        "alt": "포더홈 미니멀 감성가구",
+        "brand": "포더홈",
+        "name": "[오늘의딜][10%쿠폰] 5/21까지 미니멀 감성가구 옷장/수납장/테이블 BIG SALE",
+        "rate": "58",
+        "price": "77,500 외",
+        "avg": "4.6",
+        "review": "15,499",
+        "tag": "특가"
+      },
+      {
+        "link": "https://ohou.se/productions/677286/selling",
+        "img": "https://image.ohou.se/i/bucketplace-v2-development/uploads/deals/167733638232383756.jpg?w=360&h=360&c=c&q=50",
+        "alt": "쓰임 인기 테이블웨어 파스타볼",
+        "brand": "쓰임",
+        "name": "[리퍼/5/20원데이] 쓰임 인기 테이블웨어 파스타볼 2,900원",
+        "rate": "67",
+        "price": "2,900 외",
+        "avg": "4.8",
+        "review": "3,945",
+        "tag": "특가"
+      },
+      {
+        "link": "#",
+        "img": "https://image.ohou.se/i/bucketplace-v2-development/uploads/deals/167733638232383756.jpg?w=360&h=360&c=c&q=50",
+        "alt": "쓰임 인기 테이블웨어 파스타볼",
+        "brand": "쓰임",
+        "name": "[리퍼/5/20원데이] 쓰임 인기 테이블웨어 파스타볼 2,900원",
+        "rate": "67",
+        "price": "2,900 외",
+        "avg": "4.8",
+        "review": "3,945",
+        "tag": "특가"
+      },
+      {
+        "link": "https://ohou.se/productions/677286/selling",
+        "img": "https://image.ohou.se/i/bucketplace-v2-development/uploads/productions/166131669433751075.jpeg?gif=1&w=360&h=360&c=c&webp=1",
+        "alt": "NEW 미닉스 미니 건조기",
+        "brand": "미닉스",
+        "name": "[단독할인!+파격 사은품] 업그레이드! NEW 미닉스 미니 건조기 3kg",
+        "rate": "25",
+        "price": "349,000",
+        "avg": "4.8",
+        "review": "9,344",
+        "tag": "무료배송 특가"
+      },
+      {
+        "link": "https://ohou.se/productions/677286/selling",
+        "img": "https://image.ohou.se/i/bucketplace-v2-development/uploads/deals/167963702243909365.jpg?w=360&h=360&c=c&q=50",
+        "alt": "포더홈 미니멀 감성가구",
+        "brand": "포더홈",
+        "name": "[오늘의딜][10%쿠폰] 5/21까지 미니멀 감성가구 옷장/수납장/테이블 BIG SALE",
+        "rate": "58",
+        "price": "77,500 외",
+        "avg": "4.6",
+        "review": "15,499",
+        "tag": "특가"
+      },
+      {
+        "link": "https://ohou.se/productions/677286/selling",
+        "img": "https://image.ohou.se/i/bucketplace-v2-development/uploads/deals/167733638232383756.jpg?w=360&h=360&c=c&q=50",
+        "alt": "쓰임 인기 테이블웨어 파스타볼",
+        "brand": "쓰임",
+        "name": "[리퍼/5/20원데이] 쓰임 인기 테이블웨어 파스타볼 2,900원",
+        "rate": "67",
+        "price": "2,900 외",
+        "avg": "4.8",
+        "review": "3,945",
+        "tag": "특가"
+      },
+      {
+        "link": "#",
+        "img": "https://image.ohou.se/i/bucketplace-v2-development/uploads/deals/167733638232383756.jpg?w=360&h=360&c=c&q=50",
+        "alt": "쓰임 인기 테이블웨어 파스타볼",
+        "brand": "쓰임",
+        "name": "[리퍼/5/20원데이] 쓰임 인기 테이블웨어 파스타볼 2,900원",
+        "rate": "67",
+        "price": "2,900 외",
+        "avg": "4.8",
+        "review": "3,945",
+        "tag": "특가"
+      },
+      {
+        "link": "https://ohou.se/productions/677286/selling",
+        "img": "https://image.ohou.se/i/bucketplace-v2-development/uploads/productions/166131669433751075.jpeg?gif=1&w=360&h=360&c=c&webp=1",
+        "alt": "NEW 미닉스 미니 건조기",
+        "brand": "미닉스",
+        "name": "[단독할인!+파격 사은품] 업그레이드! NEW 미닉스 미니 건조기 3kg",
+        "rate": "25",
+        "price": "349,000",
+        "avg": "4.8",
+        "review": "9,344",
+        "tag": "무료배송 특가"
+      },
+      {
+        "link": "https://ohou.se/productions/677286/selling",
+        "img": "https://image.ohou.se/i/bucketplace-v2-development/uploads/deals/167963702243909365.jpg?w=360&h=360&c=c&q=50",
+        "alt": "포더홈 미니멀 감성가구",
+        "brand": "포더홈",
+        "name": "[오늘의딜][10%쿠폰] 5/21까지 미니멀 감성가구 옷장/수납장/테이블 BIG SALE",
+        "rate": "58",
+        "price": "77,500 외",
+        "avg": "4.6",
+        "review": "15,499",
+        "tag": "특가"
+      },
+      {
+        "link": "https://ohou.se/productions/677286/selling",
+        "img": "https://image.ohou.se/i/bucketplace-v2-development/uploads/deals/167733638232383756.jpg?w=360&h=360&c=c&q=50",
+        "alt": "쓰임 인기 테이블웨어 파스타볼",
+        "brand": "쓰임",
+        "name": "[리퍼/5/20원데이] 쓰임 인기 테이블웨어 파스타볼 2,900원",
+        "rate": "67",
+        "price": "2,900 외",
+        "avg": "4.8",
+        "review": "3,945",
+        "tag": "특가"
+      }
+    ],
+    "WEEKLY_HOME_BEST": [
+      {
+        "link": "#",
+        "img": "https://image.ohou.se/i/bucketplace-v2-development/uploads/projects/cover_images/168295270394523906.jpg?w=360&h=180&c=c",
+        "alt": "",
+        "title": "수납공간 확실하게!",
+        "text": "동선을 고려한 30평대 신축 리모델링"
+      },
+      {
+        "link": "#",
+        "img": "https://image.ohou.se/i/bucketplace-v2-development/uploads/projects/cover_images/168295270394523906.jpg?w=360&h=180&c=c",
+        "alt": "",
+        "title": "수납공간 확실하게!",
+        "text": "동선을 고려한 30평대 신축 리모델링"
+      },
+      {
+        "link": "#",
+        "img": "https://image.ohou.se/i/bucketplace-v2-development/uploads/projects/cover_images/168295270394523906.jpg?w=360&h=180&c=c",
+        "alt": "",
+        "title": "수납공간 확실하게!",
+        "text": "동선을 고려한 30평대 신축 리모델링"
+      },
+      {
+        "link": "#",
+        "img": "https://image.ohou.se/i/bucketplace-v2-development/uploads/projects/cover_images/168295270394523906.jpg?w=360&h=180&c=c",
+        "alt": "",
+        "title": "수납공간 확실하게!",
+        "text": "동선을 고려한 30평대 신축 리모델링"
+      }
+    ],
+    "EP_ORIGINAL": [
+      {
+        "link": "#",
+        "img": "https://image.ohou.se/i/bucketplace-v2-development/uploads/cards/advices/168541696882124350.png?w=360&h=180&c=c",
+        "alt": "",
+        "title": " 70만원으로 끝냅니다😮 ",
+        "text": "미니멀 드레스룸 수납의 정석"
+      },
+      {
+        "link": "#",
+        "img": "https://image.ohou.se/i/bucketplace-v2-development/uploads/cards/advices/168541696882124350.png?w=360&h=180&c=c",
+        "alt": "",
+        "title": " 70만원으로 끝냅니다😮 ",
+        "text": "미니멀 드레스룸 수납의 정석"
+      },
+      {
+        "link": "#",
+        "img": "https://image.ohou.se/i/bucketplace-v2-development/uploads/cards/advices/168541696882124350.png?w=360&h=180&c=c",
+        "alt": "",
+        "title": " 70만원으로 끝냅니다😮 ",
+        "text": "미니멀 드레스룸 수납의 정석"
+      },
+      {
+        "link": "#",
+        "img": "https://image.ohou.se/i/bucketplace-v2-development/uploads/cards/advices/168541696882124350.png?w=360&h=180&c=c",
+        "alt": "",
+        "title": " 70만원으로 끝냅니다😮 ",
+        "text": "미니멀 드레스룸 수납의 정석"
+      }
+    ]
+  }
+]
