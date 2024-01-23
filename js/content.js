@@ -147,7 +147,7 @@ function createEl(parent, el, className) {
     todayDeal: function () {
       $(function () {
         $.ajax({
-          url: "../data/data.json",
+          url: "https://tenderdaz.github.io/portfolio/data/data.json",
           type: "get",
           dataType: "json",
           success: function (data) {
@@ -458,7 +458,7 @@ function createEl(parent, el, className) {
         });
       };
 
-      $.getJSON("/data/data.json").done(function (data) {
+      $.getJSON("https://tenderdaz.github.io/portfolio/data/data.json").done(function (data) {
         const weeklyHomeBest = data[0].WEEKLY_HOME_BEST;
         const el = document.querySelector(".room-weekly-best .item-list");
         setBasicTypeList(el, weeklyHomeBest);
