@@ -147,7 +147,7 @@ function createEl(parent, el, className) {
     todayDeal: function () {
       $(function () {
         $.ajax({
-          url: "/data/data.json",
+          url: "../data/data.json",
           type: "get",
           dataType: "json",
           success: function (data) {
