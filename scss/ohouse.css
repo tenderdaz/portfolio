@@ -241,6 +241,7 @@ input::placeholder {
   flex: 1;
   display: flex;
   gap: 10rem;
+  margin-left: 20rem;
 }
 #header .header-inner .header-menu a {
   padding: 15rem 5rem;
