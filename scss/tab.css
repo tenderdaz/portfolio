@@ -1,0 +1,24 @@
+.tab-container {
+  width: -moz-fit-content;
+  width: fit-content;
+  overflow: hidden;
+}
+.tab-container .btn-wrap {
+  display: flex;
+}
+.tab-container .btn-wrap .btn {
+  padding: 20rem 35rem;
+  background: #eee;
+}
+.tab-container .btn-wrap .btn.active {
+  background: #222;
+  color: #fff;
+}
+.tab-container .content-wrap .content {
+  display: none;
+  width: 100%;
+  height: 400rem;
+}
+.tab-container .content-wrap .content.active {
+  display: block;
+}/*# sourceMappingURL=tab.css.map */

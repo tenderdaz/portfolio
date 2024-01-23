@@ -1,0 +1,91 @@
+@charset "UTF-8";
+.slide-container {
+  position: relative;
+  overflow: hidden;
+}
+.slide-container .slide-wrap {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: flex;
+}
+.slide-container .slide-wrap .slide-item {
+  height: 100%;
+}
+.slide-container .page-num {
+  display: flex;
+  position: absolute;
+  right: 20px;
+  bottom: 20px;
+  background: rgba(0, 0, 0, 0.4);
+  border-radius: 8px;
+  padding: 5px 10px;
+}
+.slide-container .page-num .num,
+.slide-container .page-num .total {
+  color: #fff;
+  font-size: 12px;
+  text-align: center;
+}
+.slide-container .page-num .num::after {
+  content: "｜";
+  display: inline-block;
+  margin: 0 1px;
+}
+.slide-container .pagination {
+  position: absolute;
+  left: 0;
+  bottom: 30px;
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 15px;
+}
+.slide-container .pagination button {
+  width: 32px;
+  height: 32px;
+  border-radius: 8px;
+  cursor: pointer;
+  box-sizing: border-box;
+}
+.slide-container .pagination button.pagination-button {
+  border: 1px solid #222;
+}
+.slide-container .pagination button.pagination-button.on {
+  background: #222;
+}
+.slide-container .pagination button.control {
+  border-radius: 50%;
+  background: url(/images/pause-circle.png) no-repeat center;
+  background-size: 100%;
+}
+.slide-container .pagination button.control.pause {
+  background-image: url(/images/play-circle.png);
+}
+.slide-container .navigator {
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+}
+.slide-container .navigator button {
+  width: 50px;
+  height: 50px;
+  background: rgba(0, 0, 0, 0.4) no-repeat center;
+  background-size: 30px;
+  opacity: 0.5;
+}
+.slide-container .navigator button.on {
+  cursor: pointer;
+  opacity: 1;
+}
+.slide-container .navigator button.prev {
+  background-image: url(/images/icon-prev.png);
+}
+.slide-container .navigator button.next {
+  background-image: url(/images/icon-next.png);
+}/*# sourceMappingURL=slider.css.map */

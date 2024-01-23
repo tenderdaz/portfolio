@@ -1,0 +1,136 @@
+@charset "utf-8";
+@import 'base';
+
+
+#header {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: sticky;
+    top: -80rem;
+    left: 0;
+    height: 80rem;
+    background: #222;
+    color: #fff;
+    transition: .5s;
+    z-index: 99;
+    &.block {
+        top: 0;
+        transition: .5s;
+    }
+    h2 {
+        font-weight: bold;
+    }
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10rem;
+    position: sticky;
+    top: 0;
+    height: 50rem;
+    border-bottom: 1px solid #ddd;
+    background-color: #fff;
+    transition: .5s;
+    z-index: 99;
+    &.top {
+        top: 80rem;
+        transition: .5s;
+    }
+    a {
+        background: #222;
+        border-radius: 20rem;
+        padding: 5rem 15rem;
+        text-align: center;
+        color: #fff;
+    }
+}
+
+section {
+    // height: 500rem;
+    .sec-title {
+        border-bottom: 1px solid #222;
+        padding-bottom: 20rem;
+        margin-bottom: 30rem;
+    }
+}
+
+.main {
+    // height: calc(100vh - 130rem);
+
+    .slide-container {
+        width: 1136rem;
+        height: 550rem;
+        margin: 0 auto;
+        .slide-wrap {
+            height: 100%;
+            background-image: linear-gradient(to top, #a18cd1 0%, #fbc2eb 100%);
+            .slide-item {
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                width: 1136rem;
+                font-size: 32rem;
+            }
+        }
+        .pagination {
+            margin-top: 20rem;
+        }
+    }
+}
+
+#sec01 {
+    height: fit-content;
+    padding: 30rem 20rem;
+    .tab-container {
+        margin: 0 auto;
+        border: 2px solid #222;
+        border-radius: 16rem;
+        .content-inner {
+            height: 100%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            font-size: 36rem;
+        }
+    }
+}
+
+#sec02 {
+    &.wheel-event-wrap {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        height: 100vh;
+        background-color: lavender;
+        div {
+            position: relative;
+            width: 100%;
+            height: 50rem;
+            overflow: hidden;
+        }
+        h2 {
+            position: absolute;
+            top: -50rem;
+            left: 0;
+            width: 100%;
+            line-height: 50rem;
+            text-align: center;
+            font-size: 32rem;
+            font-weight: bold;
+            transition: .5s;
+            &.on {
+                top: 0;
+                transition: .5s;
+            }
+        }
+    }
+}
+
+.to-top {
+    position: fixed;
+    bottom: 30rem;
+    right: 30rem;
+}

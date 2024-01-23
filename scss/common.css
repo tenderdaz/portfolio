@@ -1,0 +1,168 @@
+@import url("https://fonts.googleapis.com/css2?family=Libre+Baskerville&family=Noto+Sans+KR:wght@300&family=Roboto:wght@300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Lilita+One&display=swap");
+html {
+  font-size: 1px;
+  height: 100%;
+}
+html body {
+  font-size: 16rem;
+  font-family: "Noto Sans KR", "Roboto", sans-serif;
+  color: #222;
+  margin: 0;
+  padding: 0;
+}
+html body * {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html body section {
+  max-width: 1136rem;
+  margin: 0 auto;
+}
+
+li {
+  list-style-type: none;
+}
+
+a {
+  text-decoration: none;
+  display: block;
+  color: inherit;
+}
+
+span {
+  font-size: inherit;
+  color: inherit;
+}
+
+button {
+  border: none;
+  box-sizing: border-box;
+  background: transparent;
+}
+
+#header {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: sticky;
+  top: -80rem;
+  left: 0;
+  height: 80rem;
+  background: #222;
+  color: #fff;
+  transition: 0.5s;
+  z-index: 99;
+}
+#header.block {
+  top: 0;
+  transition: 0.5s;
+}
+#header h2 {
+  font-weight: bold;
+}
+
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10rem;
+  position: sticky;
+  top: 0;
+  height: 50rem;
+  border-bottom: 1px solid #ddd;
+  background-color: #fff;
+  transition: 0.5s;
+  z-index: 99;
+}
+nav.top {
+  top: 80rem;
+  transition: 0.5s;
+}
+nav a {
+  background: #222;
+  border-radius: 20rem;
+  padding: 5rem 15rem;
+  text-align: center;
+  color: #fff;
+}
+
+section .sec-title {
+  border-bottom: 1px solid #222;
+  padding-bottom: 20rem;
+  margin-bottom: 30rem;
+}
+
+.main .slide-container {
+  width: 1136rem;
+  height: 550rem;
+  margin: 0 auto;
+}
+.main .slide-container .slide-wrap {
+  height: 100%;
+  background-image: linear-gradient(to top, #a18cd1 0%, #fbc2eb 100%);
+}
+.main .slide-container .slide-wrap .slide-item {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 1136rem;
+  font-size: 32rem;
+}
+.main .slide-container .pagination {
+  margin-top: 20rem;
+}
+
+#sec01 {
+  height: -moz-fit-content;
+  height: fit-content;
+  padding: 30rem 20rem;
+}
+#sec01 .tab-container {
+  margin: 0 auto;
+  border: 2px solid #222;
+  border-radius: 16rem;
+}
+#sec01 .tab-container .content-inner {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 36rem;
+}
+
+#sec02.wheel-event-wrap {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  height: 100vh;
+  background-color: lavender;
+}
+#sec02.wheel-event-wrap div {
+  position: relative;
+  width: 100%;
+  height: 50rem;
+  overflow: hidden;
+}
+#sec02.wheel-event-wrap h2 {
+  position: absolute;
+  top: -50rem;
+  left: 0;
+  width: 100%;
+  line-height: 50rem;
+  text-align: center;
+  font-size: 32rem;
+  font-weight: bold;
+  transition: 0.5s;
+}
+#sec02.wheel-event-wrap h2.on {
+  top: 0;
+  transition: 0.5s;
+}
+
+.to-top {
+  position: fixed;
+  bottom: 30rem;
+  right: 30rem;
+}/*# sourceMappingURL=common.css.map */

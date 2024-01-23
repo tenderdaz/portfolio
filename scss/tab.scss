@@ -1,0 +1,27 @@
+@charset "utf-8";
+
+.tab-container {
+    width: fit-content;
+    overflow: hidden;
+    .btn-wrap {
+        display: flex;
+        .btn {
+            padding: 20rem 35rem;
+            background: #eee;
+            &.active {
+                background: #222;
+                color: #fff;
+            }
+        }
+    }
+    .content-wrap {
+        .content {
+            display: none;
+            width: 100%;
+            height: 400rem;
+            &.active {
+                display: block;
+            }
+        }
+    }
+}
