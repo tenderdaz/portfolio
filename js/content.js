@@ -153,7 +153,7 @@ function createEl(parent, el, className) {
           success: function (data) {
             console.log("success");
             // 데이터 받아오기
-            let todaysDealList = data.TODAYS_DEAL;
+            let todaysDealList = data[0].TODAYS_DEAL;
             // 데이터 생성할 엘리먼트
             const todaysDeal = document.querySelector(
               ".content.todays-deal .item-list"
@@ -459,11 +459,11 @@ function createEl(parent, el, className) {
       };
 
       $.getJSON("/data/data.json").done(function (data) {
-        const weeklyHomeBest = data.WEEKLY_HOME_BEST;
+        const weeklyHomeBest = data[0].WEEKLY_HOME_BEST;
         const el = document.querySelector(".room-weekly-best .item-list");
         setBasicTypeList(el, weeklyHomeBest);
 
-        const epOriginal = data.EP_ORIGINAL;
+        const epOriginal = data[0].EP_ORIGINAL;
         const epOriginalEl = document.querySelector(
           ".editor-pick-original .item-list"
         );
